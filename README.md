@@ -18,3 +18,9 @@ Required parameters are as follows:
 - `slug`
 
 Use [this file](https://github.com/jonlambert/rsc-example-theme/blob/master/theme.yml) as an example `theme.yml`.
+
+## Tags
+
+|Tag                  |Usage                                                                                                    |
+|---------------------|---------------------------------------------------------------------------------------------------------|
+|`<!-- @framework -->`|This tag is used to bootstrap all of the Javascript features in Titus. Place this right before `</head>`.|
