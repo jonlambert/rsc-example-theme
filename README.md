@@ -16,3 +16,5 @@ Required parameters are as follows:
 - `name`
 - `description`
 - `slug`
+
+Use [this file](https://github.com/jonlambert/rsc-example-theme/blob/master/theme.yml) as an example `theme.yml`.
