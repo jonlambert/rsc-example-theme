@@ -24,4 +24,4 @@ Use [this file](https://github.com/jonlambert/rsc-example-theme/blob/master/them
 |Tag                  |Usage                                                                                                    |
 |---------------------|---------------------------------------------------------------------------------------------------------|
 |`<!-- @framework -->`|Bootstraps all of the Javascript features in Titus. Place this right before `</head>`.                   |
-|`<!-- @framework -->`|Injects the lazy-loading Javascript files. Place before `</body>`.                                       |
+|`<!-- @source -->`   |Injects the lazy-loading Javascript files. Place before `</body>`.                                       |
