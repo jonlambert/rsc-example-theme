@@ -15,7 +15,7 @@ All of the above should exist in the root directory of the theme.
 Required parameters are as follows: 
 - `name`
 - `description`
-- `slug`
+- `slug` - This **MUST** be exactly the same as the directory name. 
 
 Use [this file](https://github.com/jonlambert/rsc-example-theme/blob/master/theme.yml) as an example `theme.yml`.
 
