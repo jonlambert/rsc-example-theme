@@ -25,3 +25,5 @@ Use [this file](https://github.com/jonlambert/rsc-example-theme/blob/master/them
 |---------------------|---------------------------------------------------------------------------------------------------------|
 |`<!-- @framework -->`|Bootstraps all of the Javascript features in Titus. Place this right before `</head>`.                   |
 |`<!-- @source -->`   |Injects the lazy-loading Javascript files. Place before `</body>`.                                       |
+
+As with `theme.yml` you can use [this file](https://github.com/jonlambert/rsc-example-theme/blob/master/index.html) as an example `index.html`.
